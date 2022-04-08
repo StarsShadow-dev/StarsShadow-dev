@@ -1,3 +1,3 @@
 ## 👋 Hi, I mostly do addon development
 - all my add-ons on github are in development and may not work...
-- so if you're interested in downloading Minecraft add-ons go to https://shadows-coding.github.io/minecraft/MinecraftAdd-ons.html
+- so if you're interested in downloading Minecraft add-ons go to https://shadows-coding.github.io/minecraft/Add-ons.html
